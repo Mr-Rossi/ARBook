@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3659195622
+CRC: 590852231
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c392f5a903a3a48327f3bb5868e8130f
+    Hash: 2fa4c49b5fd44b9d688d60eb685d3941
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 52adad6783ed1b2389d3411984e73abb
+    Hash: 0c82588165770fca3984d1966ac835ce
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -17,12 +17,17 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 23
   Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
 - Class: 33
   Script: {instanceID: 0}
 - Class: 43
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
 Assets:
 - Assets/Resources/RedFox.obj
+- Assets/Resources/ibex/ibex.prefab
 Dependencies: []
