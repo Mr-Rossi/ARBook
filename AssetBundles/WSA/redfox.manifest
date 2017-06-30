@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1684308645
+CRC: 140951968
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e7f698099c716ead48d1bd9106fdd7b9
+    Hash: 8359b6fd67a4f4182681aebe986f083b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 0c82588165770fca3984d1966ac835ce
@@ -28,6 +28,8 @@ ClassTypes:
 - Class: 205
   Script: {instanceID: 0}
 Assets:
+- Assets/Resources/warthog/warthogs.prefab
 - Assets/Resources/RedFox.obj
 - Assets/Resources/ibex/ibex.prefab
+- Assets/Resources/ibex/ibexes.prefab
 Dependencies: []
